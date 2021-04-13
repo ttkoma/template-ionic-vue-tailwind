@@ -2,7 +2,7 @@
   "appId": "io.ionic.starter",
   "appName": "ionic-vue-auth",
   "bundledWebRuntime": false,
-  "npmClient": "npm",
+  "npmClient": "yarn",
   "webDir": "dist",
   "plugins": {
     "SplashScreen": {
